@@ -1,0 +1,16 @@
+#Sat Jul 11 16:00:22 IST 2026
+base.0=C\:\\Users\\JISHNU MONDAL\\Downloads\\SudokuApp (1)\\SudokuApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\JISHNU MONDAL\\Downloads\\SudokuApp (1)\\SudokuApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\JISHNU MONDAL\\Downloads\\SudokuApp (1)\\SudokuApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
+base.3=C\:\\Users\\JISHNU MONDAL\\Downloads\\SudokuApp (1)\\SudokuApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
+base.4=C\:\\Users\\JISHNU MONDAL\\Downloads\\SudokuApp (1)\\SudokuApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=13/classes.dex
+path.3=7/classes.dex
+path.4=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
+renamed.4=classes5.dex
